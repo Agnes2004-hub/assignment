@@ -1,0 +1,91 @@
+
+STUDENT1
+
+Name: Allen Kan
+Id: 1111111
+Course: CT
+Phone No: 521-1314
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT2
+
+Name: Audrey Chan
+Id: 1310983
+Course: IA
+Phone No: 521-3879
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT3
+
+Name: Ben Affleck
+Id: 1201237
+Course: IA
+Phone No: 432-4579
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT4
+
+Name: Ben Ma
+Id: 1603679
+Course: IB
+Phone No: 693-2367
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT5
+
+Name: Ken Wong
+Id: 1502378
+Course: CS
+Phone No: 892-3765
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT6
+
+Name: Matt Damon
+Id: 1200233
+Course: CS
+Phone No: 790-3233
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
+
+STUDENT7
+
+Name: Salma Hayek
+Id: 1300899
+Course: IB
+Phone No: 790-0000
+Total Fine: RM0.00
+
+BOOK LIST: 
+
+
+*****************************************************************************
